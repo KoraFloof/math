@@ -1,7 +1,7 @@
 import math
 import sys
 
-print("!IMPORTANT! If side is unknown, input 0 !IMPORTANT!")
+print("!IMPORTANT! IF SIDE IS UNKNOWN, INPUT 0! !IMPORTANT!")
 
 while True:
     adj = float(input("\nInput the length of the adjacent side of theta: "))
